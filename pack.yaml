@@ -4,6 +4,6 @@ name: "My Stackstorm Pack"
 description: Collection of rules, sensors, workflows, and actions.
 version: 0.0.1
 author: Milind
-email: NA
+email: milind.sardana@ril.com
 dependencies:
   - https://github.com/StackStorm-Exchange/stackstorm-git.git
