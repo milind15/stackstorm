@@ -1,0 +1,9 @@
+---
+ref: my_st2_pack
+name: "My Stackstorm Pack"
+description: Collection of rules, sensors, workflows, and actions.
+version: 0.0.1
+author: Milind
+email: NA
+dependencies:
+  - https://github.com/Stackstorm-Exchanges/stackstorm-git.git 
