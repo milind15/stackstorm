@@ -6,4 +6,4 @@ version: 0.0.1
 author: Milind
 email: NA
 dependencies:
-  - https://github.com/Stackstorm-Exchanges/stackstorm-git.git 
+  - https://github.com/StackStorm-Exchange/stackstorm-git.git
