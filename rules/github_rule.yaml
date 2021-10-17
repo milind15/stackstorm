@@ -7,6 +7,6 @@ trigger:
   type: git.head_sha_monitor
 
 action:
-  ref: my_st2_pack.github_action
+  ref: stackstorm.github_action
   parameters: 
     payload: "{{ trigger }}"
