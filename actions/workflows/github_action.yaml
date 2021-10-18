@@ -14,7 +14,7 @@ tasks:
         do: install_packs
   
   
-  install_packs
+  install_packs:
     action: packs.install
     input:
       packs: ["{{ ctx().payload.repository_url }}"]
