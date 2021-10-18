@@ -2,7 +2,7 @@
 ref: stackstorm
 name: "My Stackstorm Pack"
 description: Collection of rules, sensors, workflows, and actions.
-version: 0.0.2
+version: 0.0.3
 author: Milind
 email: milind.sardana@ril.com
 dependencies:
